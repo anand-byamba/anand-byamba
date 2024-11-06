@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anand-byamba
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning PostgreSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
